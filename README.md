@@ -14,3 +14,4 @@
 ![Card](https://github.com/user-attachments/assets/476e94d4-7bbd-4ff8-934e-70560078507f)
 #Buttons
 ![Buttons](https://github.com/user-attachments/assets/7c09e8c7-0899-48d2-a76a-49d1677a00b3)
+![Inputs](https://github.com/user-attachments/assets/1c069085-83d8-4df5-8b17-ed1da079d913)
